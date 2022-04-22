@@ -1,0 +1,8 @@
+ 
+.container{
+    border-radius: 0.75rem /* 12px */;
+    /* border-top: 0.25rem; */
+    padding: 0 1rem 2.5rem 2.5rem ;
+
+    backdrop-filter: blur(10px);
+}
